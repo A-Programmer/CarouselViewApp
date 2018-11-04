@@ -1,0 +1,12 @@
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\bin\Debug\netstandard2.0\CarouselViewApp.deps.json
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\bin\Debug\netstandard2.0\CarouselViewApp.dll
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.csprojAssemblyReference.cache
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.csproj.CoreCompileInputs.cache
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.AssemblyInfoInputs.cache
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.AssemblyInfo.cs
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\bin\Debug\netstandard2.0\CarouselViewApp.pdb
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.dll
+F:\Works\MobileApps\Articles\CarouselViewApp\CarouselViewApp\CarouselViewApp\obj\Debug\netstandard2.0\CarouselViewApp.pdb
